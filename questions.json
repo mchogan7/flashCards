@@ -1,0 +1,34 @@
+{
+  "default": [
+    {
+      "question": "Were there dinosaurs in Hawaii?",
+      "answer": "no"
+    },
+    {
+      "question": "The ... has three horns.",
+      "answer": "triceratops",
+      "fullText": "The triceratops has three horns."
+    },
+    {
+      "question": "What year did Jurassic Park come out?",
+      "answer": "1993"
+    },
+    {
+      "question": "What is a velociraptor's favorite type of salsa?",
+      "answer": "tomatillo"
+    },
+    {
+      "question": "Ian Malcom is played by actor ... in Jurassic Park.",
+      "answer": "jeff goldblum",
+      "fullText": "Ian Malcom is played by actor Jeff Goldblum in Jurassic Park."
+    },
+    {
+      "question": "Laura Dern, who played paleobotanist Ellie Sattler in Jurassic Park, co-starred with actor ... in the movie Wild at Heart",
+      "answer": "nicolas cage",
+      "fullText": "Laura Dern, who played paleobotanist Ellie Sattler in Jurassic Park, co-starred with actor Nicolas Cage in the movie Wild at Heart"
+    }
+  ],
+  "user": [
+
+  ]
+}
